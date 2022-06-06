@@ -1,6 +1,6 @@
 La base de datos astra almacena datos en dos tablas. 
 La primera __Muestra__, que contiene columnas de datos de proporción de porosidad, temperatura, espesor y relajamiento. 
-La segunda __Madera__ , que contiene columnas de datos de identificación, nombre del tipo de madera y rhoc ().
+La segunda __Madera__ , que contiene columnas de datos de identificación, nombre del tipo de madera y rhoc (capacidad térmica).
 El objetivo de estos datos y la utilidad esperada del programa es encontrar la capacidad térmica de cada una de las maderas
 y relacionar las tablas en base a la porosidad de las maderas, pues una misma porosidad puede estar relacionada a dos maderas diferentes.
 
